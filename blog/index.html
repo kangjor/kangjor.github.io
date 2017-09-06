@@ -1,12 +1,42 @@
----
-layout: default
-title: Blog by Kenny
----
-<h1>{{ page.title }}</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blog by Kenny</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  
+  </head>
+
+
+  <body>
+    <nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/cv">CV</a></li>
+<li><a href="/blog">Blog</a></li>
+</ul>
+    </nav>
+<div class="container">
+
+  <h1>Blog by Kenny</h1>
 <ul class="posts">
 
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
+  
+    <li><span>06 Sep 2017</span> &raquo; <a href="/2017/09/06/test-post.html" title="Test post">Test post</a></li>
+  
     
 </ul>
+
+
+</div>
+  
+  <footer>
+   <ul>
+   <li><a href="mailto:kenneth@bykenny.com">email</a></li>
+   <li><a href="https://github.com/kangjor">github.com/kangjor</a></li>
+   </ul>
+  </footer>
+  </body>
+
+</html>
