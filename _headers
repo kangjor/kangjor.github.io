@@ -62,6 +62,15 @@
   Link: </component---packages-gatsby-theme-kenny-blog-core-src-templates-tags-query-tsx-5c726faf43230ae21d80.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/react-native-안드로이드-패키지명-변경하기
+  Link: </webpack-runtime-540aaada5ee8f5254f00.js>; rel=preload; as=script
+  Link: </framework-beda7bde9d7dca0755ce.js>; rel=preload; as=script
+  Link: </app-bbe4b3583fb13b250e92.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </39ae36f499e54073a469b2133a986bf6d76c1fd6-1cbde3c2d1aa99d4b2d1.js>; rel=preload; as=script
+  Link: </component---packages-gatsby-theme-kenny-blog-core-src-templates-post-query-tsx-c6b3d1f5ced93e86683b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/react-native-안드로이드-패키지명-변경하기/page-data.json>; rel=preload; as=fetch; crossorigin
 /elasticsearch-기본활용
   Link: </webpack-runtime-540aaada5ee8f5254f00.js>; rel=preload; as=script
   Link: </framework-beda7bde9d7dca0755ce.js>; rel=preload; as=script
@@ -134,6 +143,15 @@
   Link: </component---packages-gatsby-theme-kenny-blog-core-src-templates-tag-query-tsx-52a276ae2a7c435a7773.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/novel/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/react-native
+  Link: </webpack-runtime-540aaada5ee8f5254f00.js>; rel=preload; as=script
+  Link: </framework-beda7bde9d7dca0755ce.js>; rel=preload; as=script
+  Link: </app-bbe4b3583fb13b250e92.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </39ae36f499e54073a469b2133a986bf6d76c1fd6-1cbde3c2d1aa99d4b2d1.js>; rel=preload; as=script
+  Link: </component---packages-gatsby-theme-kenny-blog-core-src-templates-tag-query-tsx-52a276ae2a7c435a7773.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/react-native/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/tutorial
   Link: </webpack-runtime-540aaada5ee8f5254f00.js>; rel=preload; as=script
   Link: </framework-beda7bde9d7dca0755ce.js>; rel=preload; as=script
