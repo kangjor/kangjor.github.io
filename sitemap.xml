@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://blog.bykenny.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/react-native-안드로이드-패키지명-변경하기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/elasticsearch-기본활용</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/docker-generic-machine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/tags/big-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/tags/dark-arts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/tags/dev-ops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/tags/highlight</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/tags/novel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/tags/react-native</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.bykenny.com/tags/tutorial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/react-native-안드로이드-패키지명-변경하기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/elasticsearch-기본활용</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/docker-generic-machine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags/big-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags/dark-arts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags/dev-ops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags/highlight</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags/novel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags/react-native</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags/tutorial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
