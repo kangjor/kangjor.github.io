@@ -3,11 +3,13 @@
 <url> <loc>https://bykenny.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/accessing-aws-fargate-ecs-task-via-ssh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/resolving-filename-is-too-long-error-when-pushing-to-git-on-windows</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/react-ntive-alter-android-package-name</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/elasticsearch-basic</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/docker-generic-machine</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/tags/aws</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/tags/big-data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/tags/dark-arts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/tags/dev-ops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
