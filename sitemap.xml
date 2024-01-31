@@ -3,6 +3,7 @@
 <url> <loc>https://bykenny.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bykenny.com/understanding-http-status-codes-200-and-304-nginx-configuration-example-and-explanation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/obtaining-real-client-ip-in-nginx-reverse-proxy-to-node-js-server</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/getting-the-actual-client-ip-address-in-nginx-reverse-proxy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bykenny.com/nginx-reverse-proxy-and-vite-server-performance-boost</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
